@@ -17,3 +17,10 @@ Validation -> involve the actual testing.
 -> Rapid Application Development, software development process (1980s)
 -> developed to overcome the rigidity of such processes as µThe Waterfall Model¶.
 **§ DDSM**
+**Prototyping**
+Creating a reduced-feature application, loosely resembling the finished product within a short period
+of time
+**Iterative Development**
+Creation of numerous versions of the applications
+**Time-boxing**
+A process of bumping features to future versions to prevent the iteration from running out of time
