@@ -16,11 +16,16 @@ Validation -> involve the actual testing.
 **§ RAD**
 -> Rapid Application Development, software development process (1980s)
 -> developed to overcome the rigidity of such processes as µThe Waterfall Model¶.
-**§ DDSM**
+>>> 6 elements of RAD
 **Prototyping**
-Creating a reduced-feature application, loosely resembling the finished product within a short period
-of time
+Creating a reduced-feature application, loosely resembling the finished product within a short period of time
 **Iterative Development**
 Creation of numerous versions of the applications
 **Time-boxing**
 A process of bumping features to future versions to prevent the iteration from running out of time
+**Team Members**
+Small teams consisting of adaptable, multi-skilled and highly motivated workers needed to perform a RAD development
+**Management Approach**
+Highly motivated workers depend on a good manager
+**RAD Tools**
+The latest technologies should be used for RAD sparing no expense
