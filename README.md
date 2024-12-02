@@ -1,5 +1,5 @@
-# ISTQB-study
-## Chapter 1; Regarding SDLC Testing
+## ISTQB-study
+### Chapter 1; Regarding SDLC Testing
 
 **§ V & V**
 Verification -> involve meetings and reviews to evaluate the documents, plans, requirements and specifications.
@@ -15,17 +15,31 @@ Validation -> involve the actual testing.
 -> involve relationships between development and testing are clearly defined
 **§ RAD**
 -> Rapid Application Development, software development process (1980s)
--> developed to overcome the rigidity of such processes as µThe Waterfall Model¶.
->>> 6 elements of RAD
-**Prototyping**
+-> developed to overcome the rigidity of such processes as µThe Waterfall Model
+
+### 6 elements of RAD
+
+>**Prototyping**
 Creating a reduced-feature application, loosely resembling the finished product within a short period of time
-**Iterative Development**
+>
+>**Iterative Development**
 Creation of numerous versions of the applications
-**Time-boxing**
-A process of bumping features to future versions to prevent the iteration from running out of time
-**Team Members**
+>
+>**Time-boxing**
+prevent the iteration from running out of time
+>
+>**Team Members**
 Small teams consisting of adaptable, multi-skilled and highly motivated workers needed to perform a RAD development
-**Management Approach**
-Highly motivated workers depend on a good manager
-**RAD Tools**
-The latest technologies should be used for RAD sparing no expense
+>
+>**Management Approach**
+manager must prevent any obstacles, and be heavily involved with the development to ensure iterative cycles stay on track
+>
+>**RAD Tools**
+ speed of the development process and not on the cost of tools (CASE tools used)
+
+**DSDM**
+DSDM (Dynamic Systems Development Methodology) is basically a high level framework of already
+proven RAD techniques, and also management controls used to increase the chances of
+successful RAD projects
+장점; easily modified for an individual projects specific needs 
+단점; lack of detail
