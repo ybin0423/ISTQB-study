@@ -43,3 +43,6 @@ proven RAD techniques, and also management controls used to increase the chances
 successful RAD projects
 장점; easily modified for an individual projects specific needs 
 단점; lack of detail
+
+**Process Interface**
+interaction with the test process
