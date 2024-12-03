@@ -46,3 +46,16 @@ successful RAD projects
 
 **Process Interface**
 interaction with the test process
+
+### Testing Methods
+
+**Component Testing**
+known as Unit, Module, or Program Testing. In simple terms, this type of
+testing focuses simply on testing of the individual components
+
+**Component Integration Testing**
+ concerned with ensuring the interactions between the software
+components at the module level behave
+
+**Functional System Testing**
+ focuses on what the system is actually supposed to do.(= functional requirement)
