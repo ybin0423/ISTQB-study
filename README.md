@@ -69,4 +69,16 @@ based on the requirements
 **Business Process Functional Testing:**
 Different ways of using developed software are analysed and business scenarios are then created.
 
+### Non-Functional System Testing
+
+**Load Testing**
+Testing the ability of the system to be able to bear loads
+
+**Performance Testing**
+A program/system may have requirements to meet certain levels of performance
+
+**Stress Testing**
+Stress Testing simply means putting the system under stress (sort of duration testing)
+
+
 
