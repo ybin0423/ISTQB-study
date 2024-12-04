@@ -59,3 +59,14 @@ components at the module level behave
 
 **Functional System Testing**
  focuses on what the system is actually supposed to do.(= functional requirement)
+
+Functional Requirement; requirement that specifies a function that a system component must perform
+
+**Requirements-based Functional Testing**
+simply testing the functionality of the software/system
+based on the requirements
+
+**Business Process Functional Testing:**
+Different ways of using developed software are analysed and business scenarios are then created.
+
+
