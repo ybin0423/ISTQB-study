@@ -80,5 +80,12 @@ A program/system may have requirements to meet certain levels of performance
 **Stress Testing**
 Stress Testing simply means putting the system under stress (sort of duration testing)
 
+**Security Testing**
+Security testing is focused at finding loopholes in the programs security checks. 
+
+**Useability Testing**
+defining exactly what the customer requires and how
+simple it is to use the program to achieve there aims
+
 
 
