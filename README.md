@@ -96,3 +96,10 @@ installations commonly use some kind of automated installation program. This wou
 to under go significant testing in itself, as an incorrect installation procedure could render the target
 machine/system useless.
 
+**Documentation Testing**
+Documentation in today's environment can take several forms, as the documentation could be a
+printed document, an integral help file or even a web page
+
+**Recovery Testing**
+focus on how
+the system handles the failure and how it handles the recovery process
