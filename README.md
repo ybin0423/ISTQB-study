@@ -87,5 +87,12 @@ Security testing is focused at finding loopholes in the programs security checks
 defining exactly what the customer requires and how
 simple it is to use the program to achieve there aims
 
+**Storage Testing**
+testing may focus on the actual memory used by a program or system under certain
+conditions
 
+**Installability Testing**
+installations commonly use some kind of automated installation program. This would obviously have
+to under go significant testing in itself, as an incorrect installation procedure could render the target
+machine/system useless.
 
